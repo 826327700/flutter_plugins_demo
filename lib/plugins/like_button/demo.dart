@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:like_button/like_button.dart';
+import 'package:flutter_plugins_demo/utils/common.dart';
 
 class LikeButtonDemo extends StatefulWidget {
 	LikeButtonDemo({Key key}) : super(key: key);
@@ -14,6 +15,9 @@ class _LikeButtonDemoState extends State<LikeButtonDemo> {
 		return Scaffold(
 			appBar: AppBar(
 				title: Text("like_button"),
+				actions: <Widget>[
+					GoWeb(pluginName: 'like_button')
+				],
 			),
 			body: Column(
 				mainAxisAlignment: MainAxisAlignment.spaceAround,

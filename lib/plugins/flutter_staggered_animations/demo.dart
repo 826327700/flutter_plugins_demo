@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_plugins_demo/utils/common.dart';
 import './listview-demo.dart';
 import './gridview-demo.dart';
 import './column-demo.dart';
@@ -38,6 +39,9 @@ class _DemoState extends State<Flutter_staggered_animations> {
 		return Scaffold(
 			appBar: AppBar(
 				title: Text('flutter_staggered_animations'),
+				actions: <Widget>[
+					GoWeb(pluginName: 'flutter_staggered_animations')
+				],
 			),
 			body: ListView.separated(
 				itemCount: demos.length,
