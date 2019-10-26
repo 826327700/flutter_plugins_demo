@@ -6,4 +6,10 @@ List<Map> plugins=[
 		"pub_url":"https://pub.flutter-io.cn/packages/flutter_staggered_animations",
 		"routeName":"/flutter_staggered_animations"
 	},
+	{
+		"plugin_name":"like_button",
+		"title":"推特点赞效果带数量滚动动画",
+		"pub_url":"https://pub.flutter-io.cn/packages/like_button",
+		"routeName":"/like_button"
+	},
 ];
