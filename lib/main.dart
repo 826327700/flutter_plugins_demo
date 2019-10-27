@@ -32,7 +32,6 @@ class _MyHomePageState extends State<MyHomePage> {
 	@override
 	void initState() {
 		super.initState();
-		print(plugins);
 	}
 
 	@override
@@ -51,17 +50,13 @@ class _MyHomePageState extends State<MyHomePage> {
 					return ListItem(plugins[index]);
 				},
 			),
-			// floatingActionButton: FloatingActionButton(
-			// 	onPressed: _incrementCounter,
-			// 	tooltip: 'Increment',
-			// 	child: Icon(Icons.add),
-			// ), 
 		);
 	}
 
 	Widget ListItem(Map item){
 		return GestureDetector(
 			onTap: (){
+				print(item['routeName']);
 				Navigator.of(context).pushNamed(item['routeName']);
 			},
 			child: Container(
@@ -76,14 +71,14 @@ class _MyHomePageState extends State<MyHomePage> {
 							child: Column(
 								crossAxisAlignment: CrossAxisAlignment.start,
 								children: <Widget>[
-									Text(item['title'],maxLines: 2,style: TextStyle(fontSize: 16),),
+									Text(item['title'],maxLines: 1,overflow: TextOverflow.ellipsis,style: TextStyle(fontSize: 16),),
 									Container(
 										padding: EdgeInsets.only(top: 2,bottom: 2,left: 4,right: 4),
 										decoration: BoxDecoration(
 											color: Color(0xfff5f5f5),
 											borderRadius: BorderRadius.circular(2)
 										),
-										child: Text(item['plugin_name'],style: TextStyle(color: Colors.black54)),
+										child: Text(item['plugin_name'],maxLines: 1,style: TextStyle(color: Colors.black54)),
 									)
 								],
 							),

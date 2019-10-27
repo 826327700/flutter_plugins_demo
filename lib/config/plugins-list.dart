@@ -12,4 +12,10 @@ List<Map> plugins=[
 		"pub_url":"https://pub.flutter-io.cn/packages/like_button",
 		"routeName":"/like_button"
 	},
+	{
+		"plugin_name":"flutter_swiper",
+		"title":"flutter最强大的siwiper, 多种布局方式，无限轮播，Android和IOS双端适配",
+		"pub_url":"https://pub.flutter-io.cn/packages/flutter_swiper",
+		"routeName":"/flutter_swiper"
+	},
 ];

@@ -26,6 +26,7 @@ dependencies:
   flutter_webview_plugin: ^0.3.8
   flutter_staggered_animations: "^0.1.2"
   like_button: ^0.1.9
+  flutter_swiper: ^1.1.6
 
 dev_dependencies:
   flutter_test:
