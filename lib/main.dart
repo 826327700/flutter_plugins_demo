@@ -46,7 +46,6 @@ class _MyHomePageState extends State<MyHomePage> {
 					return new Divider(height: 1,color: Color(0xfff5f5f5),);
 				},
 				itemBuilder: (context,index){
-					print(plugins[index]);
 					return ListItem(plugins[index]);
 				},
 			),

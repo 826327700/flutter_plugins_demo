@@ -18,4 +18,10 @@ List<Map> plugins=[
 		"pub_url":"https://pub.flutter-io.cn/packages/flutter_swiper",
 		"routeName":"/flutter_swiper"
 	},
+	{
+		"plugin_name":"photo_view",
+		"title":"flutter图片放大预览查看器",
+		"pub_url":"https://pub.flutter-io.cn/packages/photo_view",
+		"routeName":"/photo_view"
+	},
 ];
