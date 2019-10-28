@@ -24,4 +24,10 @@ List<Map> plugins=[
 		"pub_url":"https://pub.flutter-io.cn/packages/photo_view",
 		"routeName":"/photo_view"
 	},
+	{
+		"plugin_name":"flutter_slidable",
+		"title":"列表项左右滑动可带出按钮选项",
+		"pub_url":"https://pub.flutter-io.cn/packages/flutter_slidable",
+		"routeName":"/flutter_slidable"
+	},
 ];

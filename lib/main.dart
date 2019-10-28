@@ -1,19 +1,23 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_plugins_demo/config/plugins-list.dart';
 import 'package:flutter_plugins_demo/router/routes.dart';
+import 'package:bot_toast/bot_toast.dart';
 
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
 	@override
 	Widget build(BuildContext context) {
-		return MaterialApp(
-			title: 'Flutter Demo',
-			theme: ThemeData(
-				primarySwatch: Colors.blue,
-			),
-			home: MyHomePage(title: 'Flutter Plugins Demo'),
-			routes: routes,
+		return BotToastInit(
+			child:MaterialApp(
+				navigatorObservers: [BotToastNavigatorObserver()],
+				title: 'Flutter Demo',
+				theme: ThemeData(
+					primarySwatch: Colors.blue,
+				),
+				home: MyHomePage(title: 'Flutter Plugins Demo'),
+				routes: routes,
+			)
 		);
 	}
 }
