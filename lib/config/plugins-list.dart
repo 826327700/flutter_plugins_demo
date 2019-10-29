@@ -30,4 +30,10 @@ List<Map> plugins=[
 		"pub_url":"https://pub.flutter-io.cn/packages/flutter_slidable",
 		"routeName":"/flutter_slidable"
 	},
+	{
+		"plugin_name":"bot_toast",
+		"title":"功能强大且无视context的toast提示",
+		"pub_url":"https://pub.flutter-io.cn/packages/bot_toast",
+		"routeName":"/bot_toast"
+	},
 ];
