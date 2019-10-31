@@ -33,7 +33,7 @@ class _BotToastDemoState extends State<BotToastDemo> {
 							child: Text("notice风格",style: TextStyle(color: Colors.white),),
 							color: Theme.of(context).primaryColor,
 							onPressed: (){
-								BotToast.showSimpleNotification(title: "这是默认样式",duration: Duration(seconds: 2));
+								BotToast.showSimpleNotification(title: "这是通知样式",duration: Duration(seconds: 2));
 							},
 						),
 						FlatButton(

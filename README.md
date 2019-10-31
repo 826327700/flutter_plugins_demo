@@ -15,6 +15,9 @@ IT界著名的尼古拉斯·高尔包曾说：轮子是IT进步的阶梯！热�
 
 - [flutter好用的轮子推荐五-列表左右滑动带出按钮选项](http://crazybaozi.gitee.io/xiaobaoz_blog/2019/10/29/flutter%E5%A5%BD%E7%94%A8%E7%9A%84%E8%BD%AE%E5%AD%90%E6%8E%A8%E8%8D%90%E4%BA%94-%E5%88%97%E8%A1%A8%E5%B7%A6%E5%8F%B3%E6%BB%91%E5%8A%A8%E5%B8%A6%E5%87%BA%E6%8C%89%E9%92%AE%E9%80%89%E9%A1%B9/)
 
+- [flutter好用的轮子推荐六-超好用的全局toast](http://crazybaozi.gitee.io/xiaobaoz_blog/2019/10/31/flutter%E5%A5%BD%E7%94%A8%E7%9A%84%E8%BD%AE%E5%AD%90%E6%8E%A8%E8%8D%90%E5%85%AD-%E8%B6%85%E5%A5%BD%E7%94%A8%E7%9A%84%E5%85%A8%E5%B1%80toast/)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
