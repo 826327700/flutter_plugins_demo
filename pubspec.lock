@@ -88,6 +88,13 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "0.3.8"
+  image_cropper:
+    dependency: "direct main"
+    description:
+      name: image_cropper
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "1.1.0"
   like_button:
     dependency: "direct main"
     description:

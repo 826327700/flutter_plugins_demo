@@ -36,4 +36,10 @@ List<Map> plugins=[
 		"pub_url":"https://pub.flutter-io.cn/packages/bot_toast",
 		"routeName":"/bot_toast"
 	},
+	{
+		"plugin_name":"image_cropper",
+		"title":"简单好用的图片裁剪组件",
+		"pub_url":"https://pub.flutter-io.cn/packages/image_cropper",
+		"routeName":"/image_cropper"
+	},
 ];
