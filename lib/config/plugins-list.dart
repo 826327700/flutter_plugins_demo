@@ -48,10 +48,16 @@ List<Map> plugins=[
 		"pub_url":"https://pub.flutter-io.cn/packages/curved_navigation_bar",
 		"routeName":"/curved_navigation_bar"
 	},
+	// {
+	// 	"plugin_name":"image_cropper",
+	// 	"title":"简单好用的图片裁剪组件",
+	// 	"pub_url":"https://pub.flutter-io.cn/packages/image_cropper",
+	// 	"routeName":"/image_cropper"
+	// },
 	{
-		"plugin_name":"image_cropper",
-		"title":"简单好用的图片裁剪组件",
-		"pub_url":"https://pub.flutter-io.cn/packages/image_cropper",
-		"routeName":"/image_cropper"
+		"plugin_name":"slide_up_panel",
+		"title":"flutter可定制的上下滑出抽屉",
+		"pub_url":"https://pub.flutter-io.cn/packages/slide_up_panel",
+		"routeName":"/slide_up_panel"
 	},
 ];
