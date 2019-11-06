@@ -37,6 +37,18 @@ List<Map> plugins=[
 		"routeName":"/bot_toast"
 	},
 	{
+		"plugin_name":"percent_indicator",
+		"title":"flutter圆形或线型进度条",
+		"pub_url":"https://pub.flutter-io.cn/packages/percent_indicator",
+		"routeName":"/percent_indicator"
+	},
+	{
+		"plugin_name":"curved_navigation_bar",
+		"title":"flutter一个超酷动画的底部tab栏",
+		"pub_url":"https://pub.flutter-io.cn/packages/curved_navigation_bar",
+		"routeName":"/curved_navigation_bar"
+	},
+	{
 		"plugin_name":"image_cropper",
 		"title":"简单好用的图片裁剪组件",
 		"pub_url":"https://pub.flutter-io.cn/packages/image_cropper",
