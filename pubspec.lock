@@ -50,6 +50,13 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "0.3.1"
+  drag_list:
+    dependency: "direct main"
+    description:
+      name: drag_list
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "1.0.4"
   flutter:
     dependency: "direct main"
     description: flutter

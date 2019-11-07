@@ -60,4 +60,11 @@ List<Map> plugins=[
 		"pub_url":"https://pub.flutter-io.cn/packages/slide_up_panel",
 		"routeName":"/slide_up_panel"
 	},
+	{
+		"plugin_name":"drag_list",
+		"title":"flutter拖动排序元素",
+		"pub_url":"https://pub.flutter-io.cn/packages/drag_list",
+		"routeName":"/drag_list"
+	},
+	
 ];

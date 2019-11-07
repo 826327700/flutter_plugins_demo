@@ -10,6 +10,7 @@ import 'package:flutter_plugins_demo/plugins/percent_indicator/demo.dart';
 import 'package:flutter_plugins_demo/plugins/curved_navigation_bar/demo.dart';
 import 'package:flutter_plugins_demo/plugins/image_cropper/demo.dart';
 import 'package:flutter_plugins_demo/plugins/slide_up_panel/demo.dart';
+import 'package:flutter_plugins_demo/plugins/drag_list/demo.dart';
 
 Map <String, WidgetBuilder> routes= {
 	'/flutter_staggered_animations': (BuildContext context) => new Flutter_staggered_animations(),
@@ -22,4 +23,5 @@ Map <String, WidgetBuilder> routes= {
 	'/curved_navigation_bar': (BuildContext context) => new CurvedNavigationBarDemo(),
 	// '/image_cropper': (BuildContext context) => new ImageCropperDemo(),
 	'/slide_up_panel': (BuildContext context) => new SlideUpPanelDemo(),
+	'/drag_list': (BuildContext context) => new DragListDemo(),
 };
