@@ -72,5 +72,11 @@ List<Map> plugins=[
 		"pub_url":"https://pub.flutter-io.cn/packages/animated_text_kit",
 		"routeName":"/animated_text_kit"
 	},
+	{
+		"plugin_name":"hidden_drawer_menu",
+		"title":"flutter抽屉",
+		"pub_url":"https://pub.flutter-io.cn/packages/hidden_drawer_menu",
+		"routeName":"/hidden_drawer_menu"
+	},
 	
 ];

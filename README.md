@@ -25,6 +25,8 @@ IT界著名的尼古拉斯·高尔包曾说：轮子是IT进步的阶梯！热�
 
 - [flutter好用的轮子推荐十-flutter拖动排序元素](https://xbzweb.com/2019/11/07/flutter%E5%A5%BD%E7%94%A8%E7%9A%84%E8%BD%AE%E5%AD%90%E6%8E%A8%E8%8D%90%E5%8D%81-flutter%E6%8B%96%E5%8A%A8%E6%8E%92%E5%BA%8F%E5%85%83%E7%B4%A0/)
 
+- [flutter好用的轮子推荐十一-flutter文字动效组件](https://xbzweb.com/2019/11/10/flutter%E5%A5%BD%E7%94%A8%E7%9A%84%E8%BD%AE%E5%AD%90%E6%8E%A8%E8%8D%90%E5%8D%81%E4%B8%80-flutter%E6%96%87%E5%AD%97%E5%8A%A8%E6%95%88%E7%BB%84%E4%BB%B6/)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

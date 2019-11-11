@@ -109,6 +109,13 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "0.3.8"
+  hidden_drawer_menu:
+    dependency: "direct main"
+    description:
+      name: hidden_drawer_menu
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "1.1.2"
   image_picker:
     dependency: "direct main"
     description:
