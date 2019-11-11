@@ -4,11 +4,14 @@ PODS:
     - Flutter
   - image_picker (0.0.1):
     - Flutter
+  - vibration (1.2.2):
+    - Flutter
 
 DEPENDENCIES:
   - Flutter (from `.symlinks/flutter/ios`)
   - flutter_webview_plugin (from `.symlinks/plugins/flutter_webview_plugin/ios`)
   - image_picker (from `.symlinks/plugins/image_picker/ios`)
+  - vibration (from `.symlinks/plugins/vibration/ios`)
 
 EXTERNAL SOURCES:
   Flutter:
@@ -17,11 +20,14 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/flutter_webview_plugin/ios"
   image_picker:
     :path: ".symlinks/plugins/image_picker/ios"
+  vibration:
+    :path: ".symlinks/plugins/vibration/ios"
 
 SPEC CHECKSUMS:
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
   flutter_webview_plugin: ed9e8a6a96baf0c867e90e1bce2673913eeac694
   image_picker: e3eacd46b94694dde7cf2705955cece853aa1a8f
+  vibration: 2f659072a9e03ae160974238b728c96e98bce2b5
 
 PODFILE CHECKSUM: 34af146a23453d57898facf62cd790d33544f2bb
 

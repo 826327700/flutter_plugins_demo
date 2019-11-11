@@ -66,5 +66,11 @@ List<Map> plugins=[
 		"pub_url":"https://pub.flutter-io.cn/packages/drag_list",
 		"routeName":"/drag_list"
 	},
+	{
+		"plugin_name":"animated_text_kit",
+		"title":"flutter文字动效组件",
+		"pub_url":"https://pub.flutter-io.cn/packages/animated_text_kit",
+		"routeName":"/animated_text_kit"
+	},
 	
 ];
