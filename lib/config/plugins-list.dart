@@ -74,7 +74,7 @@ List<Map> plugins=[
 	},
 	{
 		"plugin_name":"hidden_drawer_menu",
-		"title":"flutter抽屉",
+		"title":"flutter一个全屏动效的抽屉组件",
 		"pub_url":"https://pub.flutter-io.cn/packages/hidden_drawer_menu",
 		"routeName":"/hidden_drawer_menu"
 	},

@@ -22,15 +22,21 @@ class _demoState extends State<HiddenDrawerMenuDemo> {
 								GoWeb(pluginName: 'hidden_drawer_menu')
 							],
 						),
-						body: Container(
-							child: Center(
-								child: FlatButton(
-									child: Text("打开抽屉"),
-									onPressed: (){
-										controller.toggle();
-									},
+						body: Column(
+							mainAxisAlignment: MainAxisAlignment.center,
+							children: <Widget>[
+								Center(
+									child: Text("当前页面$position"),
 								),
-							),
+								Center(
+									child: FlatButton(
+										child: Text("打开抽屉"),
+										onPressed: (){
+											controller.toggle();
+										},
+									),
+								)
+							],
 						),
 					);
 				}
@@ -52,26 +58,24 @@ class _MenuState extends State<Menu> {
       height: double.maxFinite,
       color: Colors.cyan,
       padding: const EdgeInsets.all(8.0),
-      child: Center(
-        child: Column(
-          mainAxisSize: MainAxisSize.min,
-          children: <Widget>[
-            RaisedButton(
-              onPressed: () {
-                SimpleHiddenDrawerProvider.of(context)
-                    .setSelectedMenuPosition(0);
-              },
-              child: Text("Menu 1"),
-            ),
-            RaisedButton(
-                onPressed: () {
-                  SimpleHiddenDrawerProvider.of(context)
-                      .setSelectedMenuPosition(1);
-                },
-                child: Text("Menu 2"))
-          ],
-        ),
-      ),
+      child: Column(
+			mainAxisAlignment: MainAxisAlignment.center,
+			crossAxisAlignment: CrossAxisAlignment.start,
+			children: <Widget>[
+				FlatButton(
+					child: Text("菜单一",style: TextStyle(color: Colors.white,fontSize: 20)),
+					onPressed: (){
+						SimpleHiddenDrawerProvider.of(context).setSelectedMenuPosition(0);
+					},
+				),
+				FlatButton(
+					child: Text("菜单二",style: TextStyle(color: Colors.white,fontSize: 20)),
+					onPressed: (){
+						SimpleHiddenDrawerProvider.of(context).setSelectedMenuPosition(1);
+					},
+				)
+			],
+		),
     );
   }
 }
