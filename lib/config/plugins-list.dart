@@ -78,5 +78,11 @@ List<Map> plugins=[
 		"pub_url":"https://pub.flutter-io.cn/packages/hidden_drawer_menu",
 		"routeName":"/hidden_drawer_menu"
 	},
+	{
+		"plugin_name":"flutter_speed_dial",
+		"title":"flutter可展开选项的浮动按钮",
+		"pub_url":"https://pub.flutter-io.cn/packages/flutter_speed_dial",
+		"routeName":"/flutter_speed_dial"
+	},
 	
 ];
