@@ -14,6 +14,7 @@ import 'package:flutter_plugins_demo/plugins/drag_list/demo.dart';
 import 'package:flutter_plugins_demo/plugins/animated_text_kit/demo.dart';
 import 'package:flutter_plugins_demo/plugins/hidden_drawer_menu/demo.dart';
 import 'package:flutter_plugins_demo/plugins/flutter_speed_dial/demo.dart';
+import 'package:flutter_plugins_demo/plugins/sticky_headers/demo.dart';
 
 Map <String, WidgetBuilder> routes= {
 	'/flutter_staggered_animations': (BuildContext context) => new Flutter_staggered_animations(),
@@ -29,5 +30,5 @@ Map <String, WidgetBuilder> routes= {
 	'/drag_list': (BuildContext context) => new DragListDemo(),
 	'/animated_text_kit': (BuildContext context) => new AnimatedTextKitDemo(),
 	'/hidden_drawer_menu': (BuildContext context) => new HiddenDrawerMenuDemo(),
-	'/flutter_speed_dial': (BuildContext context) => new FlutterSpeedDialDemo(),
+	'/sticky_headers': (BuildContext context) => new StickyHeadersDemo(),
 };

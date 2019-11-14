@@ -84,5 +84,11 @@ List<Map> plugins=[
 		"pub_url":"https://pub.flutter-io.cn/packages/flutter_speed_dial",
 		"routeName":"/flutter_speed_dial"
 	},
+	{
+		"plugin_name":"sticky_headers",
+		"title":"flutter给滚动内容添加粘性header组件",
+		"pub_url":"https://pub.flutter-io.cn/packages/sticky_headers",
+		"routeName":"/sticky_headers"
+	},
 	
 ];
