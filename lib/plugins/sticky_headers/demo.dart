@@ -26,10 +26,10 @@ class _demoState extends State<StickyHeadersDemo> {
 			),
 			body: ListView(
 				children: <Widget>[
-					ListItem(page:StickyHeadersDemo1(),title: "效果一"),
-					ListItem(page:StickyHeadersDemo2(),title: "效果二"),
-					ListItem(page:StickyHeadersDemo3(),title: "效果三"),
-					ListItem(page:StickyHeadersDemo4(),title: "效果四"),
+					ListItem(page:StickyHeadersDemo1(),title: "默认效果"),
+					ListItem(page:StickyHeadersDemo2(),title: "自定义header效果"),
+					ListItem(page:StickyHeadersDemo3(),title: "header浮动"),
+					ListItem(page:StickyHeadersDemo4(),title: "仿SectionList效果"),
 				],
 			)
 		);
