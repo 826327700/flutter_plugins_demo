@@ -31,6 +31,8 @@ IT界著名的尼古拉斯·高尔包曾说：轮子是IT进步的阶梯！热�
 
 - [flutter好用的轮子推荐十三-flutter可展开选项的浮动按钮](https://xbzweb.com/2019/11/13/flutter%E5%A5%BD%E7%94%A8%E7%9A%84%E8%BD%AE%E5%AD%90%E6%8E%A8%E8%8D%90%E5%8D%81%E4%B8%89-flutter%E5%8F%AF%E5%B1%95%E5%BC%80%E9%80%89%E9%A1%B9%E7%9A%84%E6%B5%AE%E5%8A%A8%E6%8C%89%E9%92%AE/)
 
+- [flutter好用的轮子推荐十四-flutter将widget裁剪成各种自定义形状](https://xbzweb.com/2019/11/14/flutter%E5%A5%BD%E7%94%A8%E7%9A%84%E8%BD%AE%E5%AD%90%E6%8E%A8%E8%8D%90%E5%8D%81%E5%9B%9B-flutter%E5%B0%86widget%E8%A3%81%E5%89%AA%E6%88%90%E5%90%84%E7%A7%8D%E8%87%AA%E5%AE%9A%E4%B9%89%E5%BD%A2%E7%8A%B6/)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

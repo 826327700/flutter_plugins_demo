@@ -85,6 +85,13 @@ List<Map> plugins=[
 		"routeName":"/flutter_speed_dial"
 	},
 	{
+		"plugin_name":"flutter_custom_clippers",
+		"title":"flutter将widget裁剪成各种自定义形状",
+		"pub_url":"https://pub.flutter-io.cn/packages/flutter_custom_clippers",
+		"routeName":"/flutter_custom_clippers"
+	},
+	
+	{
 		"plugin_name":"sticky_headers",
 		"title":"flutter给滚动内容添加粘性header组件",
 		"pub_url":"https://pub.flutter-io.cn/packages/sticky_headers",
