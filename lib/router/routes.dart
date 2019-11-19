@@ -16,6 +16,7 @@ import 'package:flutter_plugins_demo/plugins/hidden_drawer_menu/demo.dart';
 import 'package:flutter_plugins_demo/plugins/flutter_speed_dial/demo.dart';
 import 'package:flutter_plugins_demo/plugins/flutter_custom_clippers/demo.dart';
 import 'package:flutter_plugins_demo/plugins/sticky_headers/demo.dart';
+import 'package:flutter_plugins_demo/plugins/flutter_rating_bar/demo.dart';
 
 Map <String, WidgetBuilder> routes= {
 	'/flutter_staggered_animations': (BuildContext context) => new Flutter_staggered_animations(),
@@ -34,4 +35,5 @@ Map <String, WidgetBuilder> routes= {
 	'/flutter_speed_dial': (BuildContext context) => new FlutterSpeedDialDemo(),
 	'/flutter_custom_clippers': (BuildContext context) => new FlutterCustomClippersDemo(),
 	'/sticky_headers': (BuildContext context) => new StickyHeadersDemo(),
+	'/flutter_rating_bar': (BuildContext context) => new FlutterRatingBarDemo(),
 };

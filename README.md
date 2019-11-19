@@ -33,6 +33,10 @@ IT界著名的尼古拉斯·高尔包曾说：轮子是IT进步的阶梯！热�
 
 - [flutter好用的轮子推荐十四-flutter将widget裁剪成各种自定义形状](https://xbzweb.com/2019/11/14/flutter%E5%A5%BD%E7%94%A8%E7%9A%84%E8%BD%AE%E5%AD%90%E6%8E%A8%E8%8D%90%E5%8D%81%E5%9B%9B-flutter%E5%B0%86widget%E8%A3%81%E5%89%AA%E6%88%90%E5%90%84%E7%A7%8D%E8%87%AA%E5%AE%9A%E4%B9%89%E5%BD%A2%E7%8A%B6/)
 
+- [flutter好用的轮子推荐十五-flutter给滚动内容添加粘性header组件](https://xbzweb.com/2019/11/15/flutter%E5%A5%BD%E7%94%A8%E7%9A%84%E8%BD%AE%E5%AD%90%E6%8E%A8%E8%8D%90%E5%8D%81%E4%BA%94-flutter%E7%BB%99%E6%BB%9A%E5%8A%A8%E5%86%85%E5%AE%B9%E6%B7%BB%E5%8A%A0%E7%B2%98%E6%80%A7header%E7%BB%84%E4%BB%B6/)
+
+- [flutter好用的轮子推荐十六-flutter可自定义的评分组件](https://xbzweb.com/2019/11/18/flutter%E5%A5%BD%E7%94%A8%E7%9A%84%E8%BD%AE%E5%AD%90%E6%8E%A8%E8%8D%90%E5%8D%81%E5%85%AD-flutter%E5%8F%AF%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9A%84%E8%AF%84%E5%88%86%E7%BB%84%E4%BB%B6/)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

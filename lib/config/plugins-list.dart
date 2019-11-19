@@ -97,5 +97,10 @@ List<Map> plugins=[
 		"pub_url":"https://pub.flutter-io.cn/packages/sticky_headers",
 		"routeName":"/sticky_headers"
 	},
-	
+	{
+		"plugin_name":"flutter_rating_bar",
+		"title":"flutter可自定义的评分组件",
+		"pub_url":"https://pub.flutter-io.cn/packages/flutter_rating_bar",
+		"routeName":"/flutter_rating_bar"
+	},
 ];
