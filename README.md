@@ -37,6 +37,10 @@ IT界著名的尼古拉斯·高尔包曾说：轮子是IT进步的阶梯！热�
 
 - [flutter好用的轮子推荐十六-flutter可自定义的评分组件](https://xbzweb.com/2019/11/18/flutter%E5%A5%BD%E7%94%A8%E7%9A%84%E8%BD%AE%E5%AD%90%E6%8E%A8%E8%8D%90%E5%8D%81%E5%85%AD-flutter%E5%8F%AF%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9A%84%E8%AF%84%E5%88%86%E7%BB%84%E4%BB%B6/)
 
+- [flutter好用的轮子推荐十七-flutter可翻转的卡片组件](https://xbzweb.com/2019/11/20/flutter%E5%A5%BD%E7%94%A8%E7%9A%84%E8%BD%AE%E5%AD%90%E6%8E%A8%E8%8D%90%E5%8D%81%E4%B8%83-flutter%E5%8F%AF%E7%BF%BB%E8%BD%AC%E7%9A%84%E5%8D%A1%E7%89%87%E7%BB%84%E4%BB%B6/)
+
+- [flutter好用的轮子推荐十八-flutter液体效果的页面切换组件](https://xbzweb.com/2019/11/25/flutter%E5%A5%BD%E7%94%A8%E7%9A%84%E8%BD%AE%E5%AD%90%E6%8E%A8%E8%8D%90%E5%8D%81%E5%85%AB-flutter%E6%B6%B2%E4%BD%93%E6%95%88%E6%9E%9C%E7%9A%84%E9%A1%B5%E9%9D%A2%E5%88%87%E6%8D%A2%E7%BB%84%E4%BB%B6/)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

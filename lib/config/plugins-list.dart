@@ -103,4 +103,23 @@ List<Map> plugins=[
 		"pub_url":"https://pub.flutter-io.cn/packages/flutter_rating_bar",
 		"routeName":"/flutter_rating_bar"
 	},
+	{
+		"plugin_name":"wave",
+		"title":"flutter可自定义的波浪组件",
+		"pub_url":"https://pub.flutter-io.cn/packages/wave",
+		"routeName":"/wave"
+	},
+	{
+		"plugin_name":"flip_card",
+		"title":"flutter可翻转的卡片组件",
+		"pub_url":"https://pub.flutter-io.cn/packages/flip_card",
+		"routeName":"/flip_card"
+	},
+	{
+		"plugin_name":"liquid_swipe",
+		"title":"flutter液体效果的页面切换组件",
+		"pub_url":"https://pub.flutter-io.cn/packages/liquid_swipe",
+		"routeName":"/liquid_swipe"
+	},
+	
 ];

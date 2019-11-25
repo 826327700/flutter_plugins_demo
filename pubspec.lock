@@ -64,6 +64,13 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "1.0.4"
+  flip_card:
+    dependency: "direct main"
+    description:
+      name: flip_card
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "0.4.4"
   flutter:
     dependency: "direct main"
     description: flutter
@@ -151,6 +158,13 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "0.1.9"
+  liquid_swipe:
+    dependency: "direct main"
+    description:
+      name: liquid_swipe
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "1.3.0"
   matcher:
     dependency: transitive
     description:
@@ -282,6 +296,13 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "2.0.8"
+  wave:
+    dependency: "direct main"
+    description:
+      name: wave
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "0.0.8"
 sdks:
   dart: ">=2.5.0 <3.0.0"
   flutter: ">=1.5.9-pre.94 <2.0.0"
