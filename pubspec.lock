@@ -158,6 +158,13 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "0.1.9"
+  liquid_progress_indicator:
+    dependency: "direct main"
+    description:
+      name: liquid_progress_indicator
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "0.3.2"
   liquid_swipe:
     dependency: "direct main"
     description:

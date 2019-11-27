@@ -121,5 +121,11 @@ List<Map> plugins=[
 		"pub_url":"https://pub.flutter-io.cn/packages/liquid_swipe",
 		"routeName":"/liquid_swipe"
 	},
+	{
+		"plugin_name":"liquid_progress_indicator",
+		"title":"flutter水波效果的进度器",
+		"pub_url":"https://pub.flutter-io.cn/packages/liquid_progress_indicator",
+		"routeName":"/liquid_progress_indicator"
+	},
 	
 ];

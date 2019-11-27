@@ -20,6 +20,7 @@ import 'package:flutter_plugins_demo/plugins/flutter_rating_bar/demo.dart';
 import 'package:flutter_plugins_demo/plugins/wave/demo.dart';
 import 'package:flutter_plugins_demo/plugins/flip_card/demo.dart';
 import 'package:flutter_plugins_demo/plugins/liquid_swipe/demo.dart';
+import 'package:flutter_plugins_demo/plugins/liquid_progress_indicator/demo.dart';
 
 Map <String, WidgetBuilder> routes= {
 	'/flutter_staggered_animations': (BuildContext context) => new Flutter_staggered_animations(),
@@ -42,4 +43,5 @@ Map <String, WidgetBuilder> routes= {
 	'/wave': (BuildContext context) => new WaveDemo(),
 	'/flip_card': (BuildContext context) => new FlipCardDemo(),
 	'/liquid_swipe': (BuildContext context) => new LiquidSwipeDemo(),
+	'/liquid_progress_indicator': (BuildContext context) => new LiquidProgressIndicatorDemo(),
 };
