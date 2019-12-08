@@ -127,5 +127,10 @@ List<Map> plugins=[
 		"pub_url":"https://pub.flutter-io.cn/packages/liquid_progress_indicator",
 		"routeName":"/liquid_progress_indicator"
 	},
-	
+	{
+		"plugin_name":"passcode_screen",
+		"title":"flutter仿iPhone锁屏界面",
+		"pub_url":"https://pub.flutter-io.cn/packages/passcode_screen",
+		"routeName":"/passcode_screen"
+	},
 ];
