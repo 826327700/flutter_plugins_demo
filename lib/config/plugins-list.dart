@@ -133,4 +133,10 @@ List<Map> plugins=[
 		"pub_url":"https://pub.flutter-io.cn/packages/passcode_screen",
 		"routeName":"/passcode_screen"
 	},
+	{
+		"plugin_name":"scratcher",
+		"title":"flutter制作刮刮卡效果",
+		"pub_url":"https://pub.flutter-io.cn/packages/scratcher",
+		"routeName":"/scratcher"
+	},
 ];

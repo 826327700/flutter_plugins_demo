@@ -22,6 +22,7 @@ import 'package:flutter_plugins_demo/plugins/flip_card/demo.dart';
 import 'package:flutter_plugins_demo/plugins/liquid_swipe/demo.dart';
 import 'package:flutter_plugins_demo/plugins/liquid_progress_indicator/demo.dart';
 import 'package:flutter_plugins_demo/plugins/passcode_screen/demo.dart';
+import 'package:flutter_plugins_demo/plugins/scratcher/demo.dart';
 
 Map <String, WidgetBuilder> routes= {
 	'/flutter_staggered_animations': (BuildContext context) => new Flutter_staggered_animations(),
@@ -46,4 +47,5 @@ Map <String, WidgetBuilder> routes= {
 	'/liquid_swipe': (BuildContext context) => new LiquidSwipeDemo(),
 	'/liquid_progress_indicator': (BuildContext context) => new LiquidProgressIndicatorDemo(),
 	'/passcode_screen': (BuildContext context) => new PassCodeScreenDemo(),
+	'/scratcher': (BuildContext context) => new ScratcherDemo(),
 };

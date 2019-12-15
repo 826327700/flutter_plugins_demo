@@ -45,6 +45,8 @@ IT界著名的尼古拉斯·高尔包曾说：轮子是IT进步的阶梯！热�
 
 - [flutter好用的轮子推荐二十-flutter仿iPhone锁屏界面](https://xbzweb.com/2019/12/08/flutter%E5%A5%BD%E7%94%A8%E7%9A%84%E8%BD%AE%E5%AD%90%E6%8E%A8%E8%8D%90%E4%BA%8C%E5%8D%81-flutter%E4%BB%BFiPhone%E9%94%81%E5%B1%8F%E7%95%8C%E9%9D%A2/)
 
+- [flutter好用的轮子推荐二十一-flutter制作刮刮卡效果](https://xbzweb.com/2019/12/15/flutter%E5%A5%BD%E7%94%A8%E7%9A%84%E8%BD%AE%E5%AD%90%E6%8E%A8%E8%8D%90%E4%BA%8C%E5%8D%81%E4%B8%80-flutter%E5%88%B6%E4%BD%9C%E5%88%AE%E5%88%AE%E5%8D%A1%E6%95%88%E6%9E%9C/)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
